@@ -1,0 +1,3 @@
+Candy Prices: $2.50
+Popcorn Prices: $5.00
+Drink Prices: $3.00
